@@ -1,1 +1,0 @@
-print("Xin Chao Cac Ban Den Voi Python")
